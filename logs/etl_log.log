@@ -1,0 +1,3 @@
+INFO:root:2024-07-25 17:05:20.389328: Successfully ran python scripts/data_extraction.py
+INFO:root:2024-07-25 17:05:21.231862: Successfully ran python scripts/data_transformation.py
+INFO:root:2024-07-25 17:05:22.296442: Successfully ran python scripts/data_loading.py
