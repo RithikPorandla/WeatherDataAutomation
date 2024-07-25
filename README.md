@@ -13,10 +13,10 @@ Clone the repository and install the dependencies.
 
 ```bash
 # Clone the repository
-git clone https://github.com/rithikporandla/Weather-Data-Automation.git
+git clone https://github.com/RithikPorandla/WeatherDataAutomation.git
 
 # Navigate to the directory
-cd Weather-Data-Automation
+cd WeatherDataAutomation
 
 # Install dependencies
 pip install -r requirements.txt
