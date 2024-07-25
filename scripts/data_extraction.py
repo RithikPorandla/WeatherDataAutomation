@@ -17,6 +17,6 @@ def extract_weather_data(api_key, city):
 
 if __name__ == "__main__":
     logging.basicConfig(filename='C:/Users/Dell/Desktop/WeatherDataAutomation/logs/data_extraction.log', level=logging.INFO)
-    api_key = "c4bc73ecd182e2e3b9b5c3ed93681a92"  # Replace with your OpenWeatherMap API key
+    api_key = ""  # Replace with your OpenWeatherMap API key
     city = "London"
     extract_weather_data(api_key, city)
